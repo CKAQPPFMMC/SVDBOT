@@ -15,7 +15,7 @@ from datetime import datetime, date
 # CONFIGURATION
 # ==============================================================================
 
-BOT_TOKEN = "8949992525:AAGG6QXlRTZXa1264kD0iukXd9AmLWCvf0M"
+BOT_TOKEN = "8473083394:AAHhhcF6Z2AqffgDq-I0stNPySo67UiTkDQ"
 ADMIN_ID = 8587243537
 
 bot = telebot.TeleBot(BOT_TOKEN)
